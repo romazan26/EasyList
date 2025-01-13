@@ -11,7 +11,7 @@ import SwiftUI
 struct EasyListApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LoadingView()
         }
     }
 }
